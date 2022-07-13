@@ -1,5 +1,11 @@
 import './loading.css'
 
+/*
+
+https://tobiasahlin.com/spinkit/
+
+*/
+
 const Loading = () => {
   return (
     <div className="sk-cube-grid">
